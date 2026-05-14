@@ -132,7 +132,7 @@
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAU20B1009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
+<img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyushAU20B1009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
 
 </div>
 
