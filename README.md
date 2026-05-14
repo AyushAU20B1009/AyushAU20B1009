@@ -118,7 +118,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AyushAU20B1009&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyushAU20B1009&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&cache_seconds=1800" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAU20B1009&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 
