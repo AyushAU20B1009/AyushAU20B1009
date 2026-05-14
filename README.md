@@ -128,11 +128,11 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30"/> Most Used Languages
+# <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30"/> Core Technologies
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyushAU20B1009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,react,nextjs,nodejs,js,ts,python,mongodb,firebase,html,css&perline=6" />
 
 </div>
 
