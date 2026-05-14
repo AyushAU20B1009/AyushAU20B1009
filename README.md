@@ -123,6 +123,7 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAU20B1009&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 
 </div>
+
 ---
 
 # <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30"/> Core Technologies
@@ -201,7 +202,6 @@ MongoDB • Express • React • Node.js
 
 </td>
 </tr>
-
 </table>
 
 ---
