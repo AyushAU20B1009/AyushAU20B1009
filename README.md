@@ -1,198 +1,12 @@
 <div align="center">
 
-# 👋 Hello Folks, I'm **Ayush Jariwala**
+# HELLO FOLKS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=34&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=AYUSH+JARIWALA;Flutter+Developer;Full-Stack+Engineer;AI+%26+Interactive+Systems+Builder;Projection+Mapping+Developer" />
 
 ### Flutter Developer • Full-Stack Engineer • AI & Interactive Systems Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Flutter+Developer;Full-Stack+Engineer;AI+Systems+Builder;Projection+Mapping+Dev;Interactive+Experience+Eng)](https://git.io/typing-svg)
-
-> *"Code is not just what I write — it's how I solve problems, build dreams and create impact."*
-
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://project-zy3h8.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-jariwala-9aa6321a4)
-[![GitHub](https://img.shields.io/badge/GitHub-e2e8f0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AyushAU20B1009)
-[![HackerRank](https://img.shields.io/badge/HackerRank-4ade80?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ayush_jariwala)
-[![Email](https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush.jariwala@avantika.edu.in)
-
-![Profile Views](https://komarev.com/ghpvc/?username=AyushAU20B1009&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## 🚀 Currently Building
-
-> 🟢 **LIVE PROJECT** — [**BHANDI MAPPING**](https://github.com/AyushAU20B1009)
->
-> 3D Projection Mapping Ecosystem — Real-time rendering + camera calibration
->
-> `AI Systems` · `Real-time Rendering` · `Projection Mapping` · `Full Stack` · `Camera Calibration` · `Interactive Mapping`
-
----
-
-## 👤 About Me
-
-```zsh
-~/dev whoami
-
-name:     Ayush Jariwala
-role:     Flutter Developer
-exp:      2+ years
-focus:    AI + Real-time Systems
-location: Surat, India
-edu:      B.Tech CSE
-status:   Building 🔥
-```
-
-- 🇮🇳 Flutter Developer & Full-Stack Engineer from India
-- 📱 Experienced in scalable mobile & web systems
-- 🧠 Passionate about AI, rendering systems & immersive UI
-- 🎬 Building cinematic interactive experiences
-- ⚡ Focused on performance optimization & clean architecture
-- 🚀 Always learning, building & shipping
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushAU20B1009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030308&title_color=8b5cf6&icon_color=22d3ee&text_color=e2e8f0)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AyushAU20B1009&theme=tokyonight&hide_border=true&background=030308&ring=8b5cf6&fire=f472b6&currStreakLabel=22d3ee)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAU20B1009&layout=compact&theme=tokyonight&hide_border=true&bg_color=030308&title_color=8b5cf6&text_color=e2e8f0)
-
-</div>
-
-| Metric | Value |
-|--------|-------|
-| 📈 Total Contributions | **220+** (since Dec 2, 2020) |
-| 🔥 Current Streak | **12 days** |
-| 🏆 Longest Streak | **36 days** (Aug 28 – Sep 2, 2023) |
-| 📦 Repositories | **18+** and growing |
-| 👁️ Profile Views | **1.5K+** |
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AyushAU20B1009&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 GitHub Activity Graph
-
-<div align="center">
-
-[![Ayush's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushAU20B1009&theme=tokyo-night&hide_border=true&bg_color=030308&color=8b5cf6&line=22d3ee&point=f472b6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌿 Top Languages
-
-| Language | Usage |
-|----------|-------|
-| 🎯 Dart | 42.1% |
-| 🟨 JavaScript | 21.6% |
-| 🐍 Python | 14.7% |
-| 🔷 TypeScript | 7.3% |
-| 🔵 Other | 14.3% |
-
----
-
-## ⚙️ Tech Stack
-
-**Languages**
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Frameworks**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-
-**Databases & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## ⭐ Featured Projects
-
-### 🗺️ BHANDI MAPPING `ACTIVE`
-> 3D Projection Mapping platform with real-time rendering and precision camera calibration.
-
-`Flutter` · `OpenGL` · `Python`
-
----
-
-### 🧠 AI Memory System `PRIVATE`
-> Semantic chatbot memory & vector search engine with embeddings and similarity search.
-
-`Python` · `FAISS` · `MongoDB`
-
----
-
-### 🌐 Portfolio Website `LIVE`
-> Modern cinematic portfolio with smooth interactions and cutting-edge animations.
-
-[🔗 project-zy3h8.vercel.app](https://project-zy3h8.vercel.app/) · `Next.js` · `Tailwind` · `Framer`
-
----
-
-### 📦 Full-Stack Apps `PRIVATE`
-> Scalable MERN applications with real-time architecture and production-grade features.
-
-`MongoDB` · `Express` · `React` · `Node.js`
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 🐙 GitHub | [@AyushAU20B1009](https://github.com/AyushAU20B1009) |
-| 💼 LinkedIn | [Ayush Jariwala](https://www.linkedin.com/in/ayush-jariwala-9aa6321a4) |
-| ✉️ Email | [ayush.jariwala@avantika.edu.in](mailto:ayush.jariwala@avantika.edu.in) |
-| 🌐 Portfolio | [project-zy3h8.vercel.app](https://project-zy3h8.vercel.app/) |
-| ⚡ HackerRank | [ayush_jariwala](https://www.hackerrank.com/profile/ayush_jariwala) |
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/AyushAU20B1009/AyushAU20B1009/output/github-contribution-grid-snake-dark.svg)
+<img src="https://komarev.com/ghpvc/?username=AyushAU20B1009&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
 
 </div>
 
@@ -200,13 +14,212 @@ status:   Building 🔥
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://project-zy3h8.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ayush-jariwala-9aa6321a4)
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ayush.jariwala@avantika.edu.in)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushAU20B1009)
+[![HackerRank](https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/ayush_jariwala)
 
-**Ayush Jariwala · Surat, India · 2024**
+</div>
 
-*Turning ideas into scalable products and immersive experiences.*
+---
 
-[![GitHub followers](https://img.shields.io/github/followers/AyushAU20B1009?label=Followers&style=social)](https://github.com/AyushAU20B1009)
-[![GitHub stars](https://img.shields.io/github/stars/AyushAU20B1009?label=Stars&style=social)](https://github.com/AyushAU20B1009)
+# <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30"/> Currently Building
+
+<table>
+<tr>
+<td width="50%">
+
+## 🚀 BHANDI MAPPING
+
+### 3D Projection Mapping Ecosystem
+
+- Real-time Mapping
+- Camera Calibration
+- Layer Rendering
+- Interactive Surface Mapping
+- AI Assisted Alignment
+- Cross-platform Flutter Architecture
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"/> About Me
+
+<table>
+<tr>
+<td width="60%">
+
+- 🚀 Flutter Developer & Full-Stack Engineer from India 🇮🇳
+- 💡 Building scalable mobile & web applications
+- 🤖 Passionate about AI Systems & Real-Time Technologies
+- 🎨 Love cinematic UI/UX & immersive experiences
+- 🧠 Building projection mapping & interactive rendering systems
+- ⚡ Experienced with Flutter, MERN, Firebase & AI integrations
+- 🔥 Always building products that create impact
+- 🎯 Focused on performance optimization & smooth UX
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="95%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+# <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30"/> Connect With Me
+
+<div align="center">
+
+<a href="mailto:ayush.jariwala@avantika.edu.in">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-jariwala-9aa6321a4">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/AyushAU20B1009">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/ayush_jariwala">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="48"/>
+</a>
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"/> Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,mongodb,firebase,python,cpp,java,js,ts,git,github,docker,figma,linux,vscode&perline=9" />
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"/> GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AyushAU20B1009&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAU20B1009&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30"/> Core Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,react,nextjs,nodejs,js,ts,python,mongodb,firebase,html,css&perline=6" />
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="35"/> Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushAU20B1009&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AyushAU20B1009&theme=discord&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"/> Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🚀 BHANDI MAPPING
+3D Projection Mapping System with real-time rendering & camera calibration.
+
+**Tech Stack:**  
+Flutter • OpenGL • Firebase • Python
+
+</td>
+
+<td width="50%">
+
+## 🤖 AI Memory System
+AI chatbot memory & vector similarity engine using embeddings.
+
+**Tech Stack:**  
+Python • MongoDB • Pinecone
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🌐 Portfolio Website
+Modern cinematic portfolio with smooth interactions & animations.
+
+**Tech Stack:**  
+Next.js • Tailwind • Framer Motion
+
+</td>
+
+<td width="50%">
+
+## ⚡ Full-Stack Applications
+Scalable MERN stack applications with real-time features.
+
+**Tech Stack:**  
+MongoDB • Express • React • Node.js
+
+</td>
+</tr>
+</table>
+
+---
+
+# <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="35"/> Fun Zone
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushAU20B1009&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ “Code is not just what I write, it's how I build experiences.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
 
 </div>
