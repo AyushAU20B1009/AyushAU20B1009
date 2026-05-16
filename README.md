@@ -2,10 +2,6 @@
 
 # HELLO FOLKS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=700&size=36&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=1000&lines=नमस्ते+🙏;કેમ+છો?+😄;જય+શ્રી+કૃષ્ણ+🚩;स्वागत+है+✨;આપનું+સ્વાગત+છે+💜" />
-
-<br/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=34&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=AYUSH+JARIWALA;Flutter+Developer;Full-Stack+Engineer;AI+%26+Interactive+Systems+Builder;Projection+Mapping+Developer" />
 
 ### Flutter Developer • Full-Stack Engineer • AI & Interactive Systems Builder
