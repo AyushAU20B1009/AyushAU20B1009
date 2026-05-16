@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=700&size=34&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&height=70&lines=नमस्ते+🙏;કેમ+છો?+😄;જય+શ્રી+કૃષ્ણ+🚩;स्वागत+है+✨;આપનું+સ્વાગત+છે+💜" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=900&size=38&duration=3200&pause=1200&color=D1D5DB&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=HELLO+FOLKS+👋;नमस्ते+🙏;કેમ+છો?+😄;જય+શ્રી+કૃષ્ણ+🚩" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=34&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=AYUSH+JARIWALA;Flutter+Developer;Full-Stack+Engineer;AI+%26+Interactive+Systems+Builder;Projection+Mapping+Developer" />
 
