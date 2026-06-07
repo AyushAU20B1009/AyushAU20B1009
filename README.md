@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=34&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=AYUSH+JARIWALA;Flutter+Developer;Full-Stack+Engineer;AI+%26+Interactive+Systems+Builder;Projection+Mapping+Developer" />
 
-### Flutter Developer • Full-Stack Engineer
+### Flutter Developer • Full-Stack Engineer • AI & Interactive Systems Builder
 
 <img src="https://komarev.com/ghpvc/?username=AyushAU20B1009&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
 
